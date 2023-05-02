@@ -1,0 +1,13 @@
+{
+    "Truck_no": "GJ 01 QW 1234",
+    "Client": "My_Warehouse_1",
+    "Shipped_To": "Ahmedabad",
+    "Date": "today",
+
+
+    "Name": "My_Warehouse_1",
+    "Location": "Ahmedabad",
+    "parking_slots": 100,
+    "StoreID": "936a9a6b-1432-4f85-8d62-4637583cf0a9",
+    "PS_gate_entry": 1
+}

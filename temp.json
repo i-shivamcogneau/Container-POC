@@ -1,0 +1,62 @@
+{
+    "id": 9134,
+    "no": "PUTAWAY/9134",
+    "putaway_client": "Disney_Bhiwandi",
+    "location_code": "MFC_MUM",
+    "document_type": "sale_return",
+    "document_no": "DMRTN/00007580",
+    "gate_entry_date": "2022-12-31 17:02:42",
+    "grndt": "2022-12-31 17:02:42",
+    "gate_entry_docno": "100299013-1",
+    "gate_entry_document_type": "order",
+    "grn_invoice_no": "",
+    "grn_invoice_date": "",
+    "putaway_type": "ok",
+    "total_putaway_quantity": 2,
+    "total_invoice_quantity": 2,
+    "status": 0,
+    "created_by": "Akshay Sakpal t",
+    "modified_by": "",
+    "created_at": "2022-12-31 17:03:53",
+    "updated_at": "2022-12-31 17:03:53",
+    "putaway_item": [
+      {
+        "putaway_detail_id": 9134,
+        "item_no": "9278P",
+        "item_id": 38531,
+        "description": "Disney Cinderella Topaz Princess Gift Set-Steel Mug with Bowl",
+        "bin_code": "MFC-FR25-04B",
+        "quantity": 1,
+        "qc_status": "ok",
+        "box_no": "",
+        "lot_no": "",
+        "season_code": "",
+        "brand_code": "SKI",
+        "pet_style_code": "Default",
+        "color_code": "",
+        "size_code": "",
+        "category_code": "Back_To_School",
+        "uom_id": 1,
+        "code": "PCS"
+      }
+    ]
+}
+
+
+
+
+// mclient
+
+// {
+//   "classInstanceName": "t",
+//   "filter" : {
+//       "id": 1676529811712
+//   },
+//   "updateData" : {
+//       "status" : 123,
+//       "location_code": "abc",
+//       "document_no" : "def"
+//   },
+//   "status": 789,
+//   "putaway_client": "Disney_Bhiwandi"
+// }
